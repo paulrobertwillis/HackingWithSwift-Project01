@@ -1,14 +1,17 @@
 # HackingWithSwift-Project01
-Storm Viewer App
+<b>Storm Viewer App</b>
 
-Swift + SwiftUI Features Explored:
-Table Views
-Image Views
-App Bundles
-FileManager
-Typecasting
-View Controllers
-Storyboards
-Outlets
-Auto Layout
-UIImage
+<p>Swift + SwiftUI Features Explored:<p>
+<ul>
+  <li>Table Views</li>
+  <li>Image Views</li>
+  <li>App Bundles</li>
+  <li>FileManager</li>
+  <li>Typecasting</li>
+  <li>View Controllers</li>
+  <li>Storyboards</li>
+  <li>Outlets</li>
+  <li>Auto Layout</li>
+  <li>UIImage</li>
+  </li>
+</ul>
