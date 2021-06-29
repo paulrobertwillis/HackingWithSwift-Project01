@@ -13,5 +13,4 @@
   <li>Outlets</li>
   <li>Auto Layout</li>
   <li>UIImage</li>
-  </li>
 </ul>
