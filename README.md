@@ -1,7 +1,7 @@
 # HackingWithSwift-Project01
 <b>Storm Viewer App</b>
 
-<p>Swift + SwiftUI Features Explored:<p>
+<p>Swift + UIKit Features Explored:<p>
 <ul>
   <li>Table Views</li>
   <li>Image Views</li>
