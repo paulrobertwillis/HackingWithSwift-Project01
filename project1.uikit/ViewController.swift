@@ -21,7 +21,6 @@ class ViewController: UITableViewController {
     }
     
     @objc func loadImages() {
-        DispatchQueue.main.async {
             let fm = FileManager.default
             let path = Bundle.main.resourcePath!
             let items = try! fm.contentsOfDirectory(atPath: path)
@@ -33,9 +32,9 @@ class ViewController: UITableViewController {
             }
             
             self.pictures.sort()
-            
+        
+        DispatchQueue.main.async {
             self.tableView.reloadData()
-
         }
     }
     
